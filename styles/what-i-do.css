@@ -1,0 +1,39 @@
+.what-i-do{
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: 50px;
+    margin-left: 230px;
+    margin-right: 230px;
+    /* padding-top: 130px; */
+    /* padding-bottom: 130px; */
+    padding-right: 156px;
+    padding-left: 156px;
+}
+.tit-wid{
+    color:#181818;
+    font-size: 35px;
+    font-weight: 700;
+}
+.skills{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 230px;
+    margin-right: 230px;
+    gap: 30px;
+    margin-bottom: 130px;
+   
+}
+.skill-tit{
+    color: #181818;
+    font-size: 20px;
+    font-weight: 700;
+}
+.skill-desc{
+    
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 30px;
+    width: 200px;
+    
+}
