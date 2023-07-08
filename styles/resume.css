@@ -1,0 +1,42 @@
+.sum-title{
+    text-align: center;
+}
+.resume-sec{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-bottom: 55px;
+    gap: 50px;
+}
+.edu , .exp{
+    width: 478px;
+}
+.res-sec-tit{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
+.res-tit{
+    color: #474747;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.inst{
+    margin-top: 0;
+    color: #757575;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+}
+.desc{
+    color: #757575;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+.cv{
+    text-align: center;
+}
+
