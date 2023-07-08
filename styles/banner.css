@@ -93,3 +93,8 @@ nav button>a{
     background-repeat: no-repeat;
     background-size: 700px;
 }
+
+.btn-primary:hover{
+    background-color: #FFF8F3;
+    color: #FD6E0A;
+}
