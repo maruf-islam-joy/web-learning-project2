@@ -3,6 +3,14 @@
 }
 header{
     background-color: #FFF8F3;
+    background-image: url('../images/header_bg.png');
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: 700px;
+    /* background-image: url('../images/developer.png');
+    background-size: 200px; */
+    /* height: 100vh; */
+    
 }
 nav li>a{
     text-decoration: none;
@@ -18,9 +26,11 @@ nav button>a{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-left: 226px;
-    margin-right: 230px;
+    margin-left: 150px;
+    margin-right: 160px;
+   
 }
+    
 .menus{
     display: flex;
     justify-content: space-around;
@@ -43,4 +53,33 @@ nav button>a{
     color: #181818;
     font-size: 45px;
     font-weight: 800;
+}
+.download{
+    margin-right: 15px;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+}
+.intro{
+    margin-top: 180px;
+    margin-left: 150px;
+
+}
+.profile-pic{
+    margin-right:5px;
+}
+.hi{
+    color: #474747;
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 2px;
+    
+}
+.name{
+    font-size: 80px;
+    color: #181818
+}
+.description{
+    width: 500px;
 }
