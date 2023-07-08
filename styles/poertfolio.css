@@ -2,11 +2,14 @@
     font-family: 'Open Sans', sans-serif;
 }
 header{
-    background-color: #FFF8F3;
-    background-image: url('../images/header_bg.png');
-    background-position: bottom right;
+    background-image: url('../images/developer.png');
+    background-size:86px;
     background-repeat: no-repeat;
-    background-size: 700px;
+    
+    
+    background-position: 25px 35px;
+    background-color: #FFF8F3;
+    
     /* background-image: url('../images/developer.png');
     background-size: 200px; */
     /* height: 100vh; */
@@ -26,7 +29,7 @@ nav button>a{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-left: 150px;
+    margin-left: 175px;
     margin-right: 160px;
    
 }
@@ -64,6 +67,7 @@ nav button>a{
 .intro{
     margin-top: 180px;
     margin-left: 150px;
+    
 
 }
 .profile-pic{
@@ -82,4 +86,10 @@ nav button>a{
 }
 .description{
     width: 500px;
+}
+.banner{
+    background-image: url('../images/header_bg.png');
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: 700px;
 }
