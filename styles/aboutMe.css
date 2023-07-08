@@ -1,0 +1,38 @@
+.me{
+    text-align: center;
+    border-radius: 10px;
+    background: #FFF8F3;
+    margin-top: 130px;
+    margin-bottom: 130px;
+    margin-left: 230px;
+    margin-right: 230px;
+    padding-top: 130px;
+    padding-bottom: 130px;
+    padding-right: 156px;
+    padding-left: 156px;
+
+}
+
+.data{
+    display:flex;
+    justify-content: space-around;
+}
+.tit-about-me{
+    color:#181818;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.about-me-desc{
+    color: #757575;
+    font-size: 18px;
+    font-weight: 400;
+}
+.data-title{
+    color: #757575;
+    font-size: 18px;
+}
+.data-desc{
+    font-size: 20px;
+    font-weight: 550;
+}
