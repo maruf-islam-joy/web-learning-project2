@@ -1,0 +1,26 @@
+.foot{
+    background-color: #FFF8F3;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    padding-top: 60px;
+    
+}
+.connect{
+    width: 500px;
+    margin-left: 230px;
+}
+.msg{
+    width:500px;
+    margin-right: 230px;
+}
+.inp{
+    margin-bottom: 15px;
+
+    width: 350px;
+    padding: 10px;
+    border-radius: 5px;
+    background:  #FFF;
+    border: none;
+
+}
