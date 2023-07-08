@@ -1,0 +1,46 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+    background-color: #FFF8F3;
+}
+nav li>a{
+    text-decoration: none;
+    color:  #474747;
+    
+}
+nav button>a{
+    color: white;
+    text-decoration: none;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 226px;
+    margin-right: 230px;
+}
+.menus{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-list{
+    list-style: none;
+    padding: 20px;
+}
+.btn-primary{
+    border-radius: 5px;
+    background: #FD6E0A;
+    padding: 15px 32px;
+    font-size: 15px;
+    color: white;
+    font-weight: 700;
+    border: 0;
+}
+.logo{
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800;
+}
